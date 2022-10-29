@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kainan Simões
+## Eaí! Eu sou o Kainan Simões
 
 - 🔭 Hoje curso o ensino médio/técnico em informática 
 - 🌱 Estudando C#
